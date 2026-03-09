@@ -151,7 +151,9 @@ eniac-discount-analysis/
 
 03_creating_product_categories_by_types.ipynb
 
-04_ discount_vs_revenue_analysis_plus_visualization.ipynb
+04_distribution of total revenue by category.ipynb
+
+05_ discount_vs_revenue_analysis_plus_visualization.ipynb
 
 
 ── visuals/
