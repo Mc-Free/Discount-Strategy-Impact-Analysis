@@ -3,7 +3,7 @@ Data-Driven Pricing Evaluation for Eniac (E-commerce Case Study)
 
  
 # Project Summary
-In this project, I worked as a Data Analyst for Eniac, an e-commerce technology company facing a strategic pricing dilemma.
+In this two weeks project, I worked as a Data Analyst for Eniac, an e-commerce technology company facing a strategic pricing dilemma.
 Despite an increase in order volume, the company experienced a decline in total revenue. Based on the company’s recent quarterly results. 
 Leadership was divided:
 
